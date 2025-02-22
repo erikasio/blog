@@ -11,13 +11,15 @@ If you're facing any of these RAG challenges, I can help:
 
 | Industry         | Challenge Solved                                       | Impact                                                                       |
 |------------------|--------------------------------------------------------|------------------------------------------------------------------------------|
-| **Enterprise SaaS**  | Customer facing RAG system | Secured first enterprise contract in 3 months |
-| **Automotive**       | AI data mapping                | p99 latency from 10s → 78ms, 86% inference cost savings               |
+| **Enterprise SaaS**  | Scaled RAG system | Went from 0 to first enterprise contract in 4 months |
+| **Automotive**       | AI data mapping                | It's 86% cheaper to run, maps data in 78ms instead of 10s, updates are 80% cheaper and 4x faster               |
 | **Travel Tech**      | AI search system                             | 10% more direct bookings, 7% revenue increase                      |
 
 ## Who I Am
 
-I'm Erikas, a senior AI engineer turned consultant specializing in helping teams:
+I'm Erikas, a senior AI engineer turned consultant specializing in improving RAG systems. I leverage hard earned lessons from building AI search ranking system at HomeToGo.
+
+I help teams:
 
 - Build reliable RAG systems that delight end users
 - Improve performance and keep costs in check
