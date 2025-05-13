@@ -17,7 +17,7 @@ If you're facing any of these RAG challenges, I can help:
 
 ## Who I Am
 
-I'm Erikas, a senior AI engineer turned consultant specializing in improving RAG systems. I leverage hard earned lessons from building AI search ranking system at HomeToGo.
+I'm Erikas, a senior AI engineer turned consultant specializing in improving RAG systems. I leverage hard earned lessons from building AI search ranking system at [HomeToGo](https://www.hometogo.com).
 
 I help teams:
 
