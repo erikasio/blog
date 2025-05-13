@@ -114,7 +114,8 @@ nav:
   - Blog:
     - "blog/index.md"
 plugins:
-  - social
+  # Disabling social plugin due to SVG processing error
+  # - social
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
