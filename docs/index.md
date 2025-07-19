@@ -1,6 +1,6 @@
 # Your AI Should Build Trust, Not Break It
 
-## I Fix RAG Accuracy Problems That Drive Customers Away — Results in 3-5 Months
+## I Fix RAG Accuracy Problems That Drive Customers Away — Rapid, Measurable Progress
 
 For funded startups and growth-stage companies whose AI accuracy problems are impacting customer retention and revenue.
 
@@ -8,7 +8,9 @@ For funded startups and growth-stage companies whose AI accuracy problems are im
 
 ## The Hidden Cost of RAG Accuracy Problems
 
-When your AI gives wrong answers, it's not just a technical issue — it's a business problem. Here's what I typically see:
+When your AI gives wrong answers, it's not just a technical issue — it's a business problem. 
+
+Here's what I typically see:
 
 - **Trust erosion**: Users learn they can't rely on your AI, so they stop using it altogether
 - **Retrieval failures**: Your knowledge base has the right answers, but your RAG can't find them
@@ -22,37 +24,48 @@ The good news? These are solvable problems. With the right retrieval architectur
 ### Legal Tech Breakthrough: From 20% to 70% Accuracy in 4 Months
 
 **Challenge**: A regulatory compliance platform's AI assistant couldn't accurately retrieve from EU legal databases - 20% accuracy made it unusable for production  
+
 **Root Cause**: Generic document processing failed with complex legal document structures, multilingual content, and hierarchical legal relationships  
+
 **Solution**: Built specialized parsing pipeline for legal documents + domain-aware retrieval system optimized for regulatory queries  
+
 **Result**:
 
-- Month 1: Achieved 70% accuracy (3.5x improvement)
+- Month 1: Achieved **70% accuracy** (3.5x improvement)
 - Month 4: Platform secured first major enterprise contract
-- Key Insight: 50% of accuracy issues came from document structure understanding, not the large language model
+- **Key Insight**: 50% of accuracy issues came from document structure understanding, not the large language model
 
 ### 86% Cost Reduction at carVertical
 
 **Challenge**: Vehicle data mapping system was unusable in production - 10-second response times made real-time vehicle identification impossible  
+
 **Root Cause**: Complex neural encoder was overkill for standardizing vehicle titles like "VW Golf 2005 TDI Wagon" into structured make/model/variant data  
+
 **Solution**: Multi-stage hybrid approach: TF-IDF first pass for exact matches, XGBoost classifier fallback for ambiguous cases  
+
 **Result**:
 
-- Response time: 10s → 78ms (128x faster)
-- Infrastructure costs: 86% reduction by eliminating GPU dependency
-- Model retraining: 80% cheaper and 4x faster (CPU-only pipeline)
-- Key Insight: Simple lexical matching + smart classification often beats complex neural networks for structured data extraction
+- Response time: **10s → 78ms** (128x faster)
+- Infrastructure costs: **86% reduction** by eliminating GPU dependency
+- Model retraining: **80% cheaper** and 4x faster (CPU-only pipeline)
+- **Key Insight**: Simple lexical matching + smart classification often beats complex neural networks for structured data extraction
 
 ### 10% Booking Increase at HomeToGo
 
 **Challenge**: Could we improve direct booking conversion rates beyond the existing multi-model ranking system that already optimized for CTR, bookings, and revenue?  
+
 **Hypothesis**: Adding a specialized direct booking reranking layer would further improve conversions without disrupting the core ranking infrastructure  
+
 **Solution**: Built pairwise reranking system that operated on non-paid positions, specifically optimizing for direct booking behavior while preserving existing CTR-based ranking  
+
 **Result**:
 
-- 10% increase in direct bookings from A/B testing
+- **10% increase** in direct bookings from A/B testing
 - Improved conversion rates without cannibalizing existing revenue streams
 - Demonstrated that specialized reranking can enhance sophisticated ranking systems
-- Key Insight: Even mature ranking systems can benefit from targeted optimization layers for specific business objectives
+- **Key Insight**: Even mature ranking systems can benefit from targeted optimization layers for specific business objectives
+
+---
 
 ## How We Work Together
 
@@ -72,9 +85,11 @@ I work with a limited number of clients who need their AI systems to perform at 
 - Full knowledge transfer - you own everything and can maintain it independently
 - Project-based pricing tied to outcomes, not hours
 
-Engagements typically start at $25,000 based on scope and business value delivered.
+**Minimum investment is $25,000** based on scope and business value delivered.
 
 You own all code, documentation, and IP. No vendor lock-in.
+
+---
 
 ## My Guarantee: Results or Partial Refund
 
@@ -107,12 +122,12 @@ Every engagement follows the same proven approach:
 - Decision-makers who can move quickly (not committee-driven)
 - Value expertise and willing to invest in quality solutions
 
-**Not a Fit:**
+**May not be the right fit:**
 
-- Large enterprises (I'm a solo specialist, not a consultancy)
-- Pre-revenue startups (focus on product-market fit first)
-- Looking for cheapest option or staff augmentation
-- Want generic AI advice rather than specialized retrieval optimization
+- Organizations requiring large consulting teams
+- Committee-driven decision making processes
+- Staff augmentation or hourly-based work
+- Projects outside of RAG systems and agents
 
 ## Start With a Free RAG Systems Assessment
 
