@@ -1,14 +1,26 @@
 # Your AI Should Build Trust, Not Break It
 
-## I Fix RAG Accuracy Problems That Drive Customers Away — Rapid, Measurable Progress
+## I Fix Failing RAG Systems That Drive Customers Away — Rapid, Measurable Progress
 
-For funded startups and growth-stage companies whose AI accuracy problems are impacting customer retention and revenue.
+For funded startups and growth-stage companies losing customers to AI that gives wrong answers.
+
+## Your AI Is Only As Good As What It Can Find
+
+Most companies think AI accuracy comes from better language models. It doesn't.
+
+**Your AI can only be as smart as the information it retrieves.** Poor retrieval = poor AI, regardless of how advanced your LLM is.
+
+While foundation models handle generation, retrieval is where you create competitive advantage. Everyone uses the same LLMs - but your retrieval system is what sets you apart.
+
+The chain is simple: **Better Data → Better Retrieval → Better AI**
+
+This is why I focus on the retrieval systems that determine what information your AI actually works with. Fix retrieval, fix your AI.
 
 ---
 
-## The Hidden Cost of RAG Accuracy Problems
+## When Your AI Breaks Customer Trust
 
-When your AI gives wrong answers, it's not just a technical issue — it's a business problem. 
+When your AI gives wrong answers, it's not just a technical issue — it's a business problem.
 
 Here's what I typically see:
 
@@ -21,7 +33,7 @@ The good news? These are solvable problems. With the right retrieval architectur
 
 ## Proven Results: Systematic Improvements That Drive Business Impact
 
-### Legal Tech Breakthrough: From 20% to 70% Accuracy in 4 Months
+### Legal Tech: Unusable AI → First Enterprise Contract in 4 Months
 
 **Challenge**: A regulatory compliance platform's AI assistant couldn't accurately retrieve from EU legal databases - 20% accuracy made it unusable for production  
 
@@ -35,7 +47,7 @@ The good news? These are solvable problems. With the right retrieval architectur
 - Month 4: Platform secured first major enterprise contract
 - **Key Insight**: 50% of accuracy issues came from document structure understanding, not the large language model
 
-### 86% Cost Reduction at carVertical
+### carVertical: 10-Second Response Times → 78ms (Production Ready)
 
 **Challenge**: Vehicle data mapping system was unusable in production - 10-second response times made real-time vehicle identification impossible  
 
@@ -50,7 +62,7 @@ The good news? These are solvable problems. With the right retrieval architectur
 - Model retraining: **80% cheaper** and 4x faster (CPU-only pipeline)
 - **Key Insight**: Simple lexical matching + smart classification often beats complex neural networks for structured data extraction
 
-### 10% Booking Increase at HomeToGo
+### HomeToGo: 10% More Bookings Through Strategic Reranking
 
 **Challenge**: Could we improve direct booking conversion rates beyond the existing multi-model ranking system that already optimized for CTR, bookings, and revenue?  
 
@@ -89,19 +101,30 @@ I work with a limited number of clients who need their AI systems to perform at 
 
 You own all code, documentation, and IP. No vendor lock-in.
 
+## The Right Questions First
+
+Most consultants jump straight into solutions. I start with the questions that matter:
+
+**"Everything in search is trade-off. Have you got the trade-offs right?"**
+
+When companies say "Can you make the AI better," it's always about budget:
+- Is 9% improvement worth the cost of ownership?
+- Is it worth the latency hit? 
+- Is it worth the maintenance complexity?
+
+The best solution isn't always the most technically sophisticated one.
+
 ---
 
-## My Guarantee: Results or Partial Refund
+## Risk-Free Results Guarantee
 
-I'm confident in my approach, so I back it with a guarantee:
+**50% upfront, 50% on hitting your success metrics**
 
-- Pay 50% upfront to start the engagement
-- Remaining 50% tied to hitting agreed success metrics specific to your situation
-- If we don't hit our mutually agreed targets, you get a 50% refund of total project cost
+If we don't hit our agreed targets, you get a 50% refund.
 
-Success metrics are measured through automated testing and objective benchmarks established during our initial assessment based on your current performance and business goals.
+Success metrics are objective and measurable - established during our initial assessment based on your current performance and business goals. No subjective judgment calls.
 
-This ensures we're both invested in success while limiting your risk.
+This ensures we're both invested in your success while limiting your risk.
 
 ## Our Partnership Process
 
@@ -129,23 +152,17 @@ Every engagement follows the same proven approach:
 - Staff augmentation or hourly-based work
 - Projects outside of RAG systems and agents
 
-## Start With a Free RAG Systems Assessment
+## Ready to Fix Your RAG System?
 
-Two ways to move forward:
+### Free 30-Minute Assessment Call
 
-### Option 1: RAG Systems Assessment Call
-
-30-minute focused call where I'll:
-
-- Diagnose your likely RAG retrieval and accuracy bottlenecks
-- Share 2-3 specific improvements you can try immediately
-- Discuss if we're a good fit to work together
+I'll diagnose your RAG bottlenecks and share 2-3 improvements you can try immediately.
 
 [Schedule Assessment Call](https://cal.com/erikasio/30min){ .md-button .md-button--primary }
 
-### Option 2: See My Technical Approach
+### See the Technical Details
 
-Deep-dive into how I transformed a regulatory compliance platform from 20% to 70% accuracy in 4 months.
+Deep-dive case study: 20% → 70% accuracy in 4 months for a regulatory compliance platform.
 
 [Read Technical Case Study →](#)
 
@@ -157,7 +174,7 @@ Deep-dive into how I transformed a regulatory compliance platform from 20% to 70
 
 I'm Erikas, a Machine Learning Engineer turned independent consultant. After building production AI systems at [HomeToGo](https://www.hometogo.com) (May 2018 - Feb 2023) and [carVertical](https://www.carvertical.com) (May 2023 - Sep 2024), I now help companies build RAG systems that customers actually trust.
 
-My approach is simple: Better retrieval leads to better AI. Whether it's search ranking, document processing, or data mapping, I focus on the systems that determine what information your AI actually works with.
+Everyone has access to the same foundation models. The real competitive advantage lies in what information you feed them. While others chase the latest foundation models, I build the retrieval foundations that create lasting competitive advantages.
 
 When I'm not optimizing search pipelines or building evaluation frameworks, you'll find me sharing technical insights on [LinkedIn](https://www.linkedin.com/in/erikas-valinskas-737651135/) and [X](https://x.com/erikasvio).
 
