@@ -2,10 +2,10 @@
 
 Welcome to my technical blog where I share insights about:
 
-- AI System Implementation
-- Technical Architecture Design
-- Performance Optimization
-- Team Enablement
+- RAG System Architecture and Design
+- Document Processing and Data Quality
+- Retrieval Optimization Techniques
+- Production Evaluation Frameworks
 
 ## Featured Posts
 
