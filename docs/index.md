@@ -12,7 +12,7 @@ Most companies think AI accuracy comes from better language models. It doesn't.
 
 While foundation models handle generation, retrieval is where you create competitive advantage. Everyone uses the same LLMs - but your retrieval system is what sets you apart.
 
-The chain is simple: **Better Data → Better Retrieval → Better AI**
+The truth is simple: **Better Retrieval → Better AI**
 
 This is why I focus on the retrieval systems that determine what information your AI actually works with. Fix retrieval, fix your AI.
 
@@ -49,7 +49,7 @@ The good news? These are solvable problems. With the right retrieval architectur
 
 ### carVertical: 10-Second Response Times → 78ms (Production Ready)
 
-**Challenge**: Vehicle data mapping system was unusable in production - 10-second response times made real-time vehicle identification impossible  
+**Challenge**: AI vehicle data matching system was unusable in production - 10-second response times made real-time vehicle identification impossible  
 
 **Root Cause**: Complex neural encoder was overkill for standardizing vehicle titles like "VW Golf 2005 TDI Wagon" into structured make/model/variant data  
 
