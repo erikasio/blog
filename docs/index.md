@@ -90,7 +90,7 @@ I work with a limited number of clients who need their AI systems to perform at 
 
 **Engagement approach:**
 
-- Start with business impact assessment (what are current problems costing you?)
+- Start with situational assessment
 - Systematic experimentation with measurable milestones
 - Full knowledge transfer - you own everything and can maintain it independently
 - Project-based pricing tied to outcomes, not hours
