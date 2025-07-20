@@ -104,7 +104,7 @@ You own all code, documentation, and IP. No vendor lock-in.
 - Funded startups and growth-stage companies
 - AI systems impacting customer experience or business operations
 - Technical teams that can implement recommendations
-- Decision-makers who can move quickly (not committee-driven)
+- Decision-makers who can move quickly
 - Value expertise and willing to invest in quality solutions
 
 **May not be the right fit:**
